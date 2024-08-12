@@ -7,6 +7,9 @@ const Hero = () => {
         <h1 className="text-5xl font-bold text-white dark:text-slate-200 mb-2">
           Welcome to IkoToilets
         </h1>
+        <h2 className="text-3xl text-white dark:text-slate-200 mb-4">
+          Simple | Affordable | Quality
+        </h2>
         <p className="text-lg text-white dark:text-slate-200-">
           Discover the best toilets for your needs
         </p>
